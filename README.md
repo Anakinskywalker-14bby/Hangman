@@ -61,7 +61,3 @@ After the game ends, choose to play again or exit.
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request with improvements or additional features.
-
-## License
-
-This project is licensed under the MIT License.
